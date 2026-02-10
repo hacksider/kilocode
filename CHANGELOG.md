@@ -1,5 +1,11 @@
 # kilo-code
 
+## 5.5.1
+
+### Patch Changes
+
+- [#5749](https://github.com/Kilo-Org/kilocode/pull/5749) [`b2fa0a9`](https://github.com/Kilo-Org/kilocode/commit/b2fa0a9b239a396feee39d14eb60eafb088c0ed4) Thanks [@skaldamramra](https://github.com/skaldamramra)! - Add Slovak (sk) language translation for Kilo Code extension and UI
+
 ## 5.5.0
 
 ### Minor Changes
